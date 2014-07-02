@@ -15,5 +15,9 @@ Prueba - HTML
 </head>
 <body>
 <p> Esto es una prueba </p>
+<?php
+echo 'hola';
+
+?>
 </body>
 </html>
